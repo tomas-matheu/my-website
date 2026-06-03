@@ -1,0 +1,24 @@
+.banner {
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.75), rgba(16, 26, 22, 0.6)),
+    url("../../images/sponsor-and-logo.png");
+  background-size: cover;
+  background-position: center;
+  padding: 180px 0; 
+  text-align: center;
+}
+
+.banner h1 {
+  color: #ffffff;
+  font-size: 64px;
+  font-weight: 900;
+  margin: 0 0 10px 0;
+  letter-spacing: 1px;
+}
+
+.banner h2 {
+  color: #10b981;
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 50px;
+}
